@@ -131,12 +131,6 @@ h3{
 h4{
     color:white;
 }
-#HCB_comment_box{
-	color: #002664;
-	margin-left: 50px;
-    margin-bottom: 50px;
-	width: 600px;
-}
 .table { 
     background-color: #002664;
     color: White;
@@ -153,4 +147,10 @@ td {
     text-align: left;
     border-collapse: collapse;
     border: 1px solid #FF4000;
+}
+#HCB_comment_box{
+    color: #002664;
+    margin-left: 50px;
+    margin-bottom: 50px;
+    width: 600px;
 }
