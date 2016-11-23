@@ -31,17 +31,17 @@
     margin-left: 50px;
     background-color: transparent;
 }
-th {
-    background-color: transparent;
-    color: white;
-    border-collapse: collapse;
-    border: 1px solid #FF4000;
+#gegevens{
+    margin-top: 100px;
+    margin-left: 50px;
+    color: White;
 }
-td {
-    background-color: transparent;
-    text-align: left;
-    border-collapse: collapse;
-    border: 1px solid #FF4000;
+#map{
+    width:600px;
+    height:700px;
+    margin-left: 50px;
+    margin-bottom: 70px;
+    color: white;
 }
 #admin {
     width:600px;
@@ -61,12 +61,12 @@ td {
     bottom:0px;
     width:100%;
     border: 1px solid #FF4000;
-    height:40px;   /* Height of the footer */
+    height:40px; 
     background:#002664;
     color:white;
 }
 #images_hz img {
-float: right;
+    float: right;
 }
 ul {
     position: absolute; 
@@ -79,7 +79,7 @@ ul {
     padding: 0;
     overflow: hidden;
     background-color: #002664;
-	border-radius: 20px;
+    border-radius: 20px;
     position: fixed;
     top: 0;
     width: 100%;
@@ -87,7 +87,7 @@ ul {
 
 li {
     float: left;
-	border-radius: 20px;
+    border-radius: 20px;
 }
 
 li a {
@@ -99,7 +99,7 @@ li a {
 }
 
 li a:hover {
-	color: #FF4000;
+    color: #FF4000;
 }
 .active {
     background-color: #002664;
@@ -114,13 +114,13 @@ li:last-child {
 }
 body {
     background-image: url("AmericanEagle2.jpg");
-	background-position: center;
+    background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
 }
 h2{
-	font-family: "Verdana";
-	color: white;
+    font-family: "Verdana";
+    color: white;
     margin-right: 50%;
     margin-left: 50px;
     margin-top: 50px;
@@ -139,18 +139,18 @@ h4{
 }
 .table { 
     background-color: #002664;
-	color: White;
-	margin: 10px;
-}
-#gegevens{
-    margin-top: 100px;
-    margin-left: 50px;
     color: White;
+    margin: 10px;
 }
-#map{
-    width:600px;
-    height:700px;
-    margin-left: 50px;
-    margin-bottom: 70px;
+th {
+    background-color: transparent;
     color: white;
+    border-collapse: collapse;
+    border: 1px solid #FF4000;
+}
+td {
+    background-color: transparent;
+    text-align: left;
+    border-collapse: collapse;
+    border: 1px solid #FF4000;
 }
