@@ -1,0 +1,156 @@
+.coverfront{
+    margin-top: 35px;
+    background-image:url("Trumpbanner2.jpg");  
+    background-repeat: no-repeat;
+    height: 250px;
+    width: 100%;
+    border: 1px solid white;
+}
+#PJ {
+    width:600px;
+    height:675px;
+    margin-left: 50px;
+    margin-bottom: 100px;
+    color:white;
+}
+#inlog {
+    width:600px;
+    height:800px;
+    margin-left: 50px;
+    color:white;
+}
+#home {
+    width:600px;
+    height:500px;
+    margin-left: 50px;
+    color:white;
+}
+#index {
+    width:600px;
+    height:600px;
+    margin-left: 50px;
+    background-color: transparent;
+}
+th {
+    background-color: transparent;
+    color: white;
+    border-collapse: collapse;
+    border: 1px solid #FF4000;
+}
+td {
+    background-color: transparent;
+    text-align: left;
+    border-collapse: collapse;
+    border: 1px solid #FF4000;
+}
+#admin {
+    width:600px;
+    height:100px;
+    margin-left: 50px;
+    color:white;
+}
+#reg {
+    width:600px;
+    height:50px;
+    margin-left: 50px;
+    color:white;
+}
+#footer {
+    position:fixed;
+    left:0px;
+    bottom:0px;
+    width:100%;
+    border: 1px solid #FF4000;
+    height:40px;   /* Height of the footer */
+    background:#002664;
+    color:white;
+}
+#images_hz img {
+float: right;
+}
+ul {
+    position: absolute; 
+    left: 0; 
+    right: 0; 
+    margin-left: auto;  
+    margin-right: auto;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #002664;
+	border-radius: 20px;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+li {
+    float: left;
+	border-radius: 20px;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+	color: #FF4000;
+}
+.active {
+    background-color: #002664;
+    border-left: 1px solid #FF4000;
+}
+li {
+    border-right: 1px solid #FF4000;
+}
+
+li:last-child {
+    border-right: none;
+}
+body {
+    background-image: url("AmericanEagle2.jpg");
+	background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h2{
+	font-family: "Verdana";
+	color: white;
+    margin-right: 50%;
+    margin-left: 50px;
+    margin-top: 50px;
+}
+h3{
+    text-align: center;
+}
+h4{
+    color:white;
+}
+#HCB_comment_box{
+	color: #002664;
+	margin-left: 50px;
+    margin-bottom: 50px;
+	width: 600px;
+}
+.table { 
+    background-color: #002664;
+	color: White;
+	margin: 10px;
+}
+#gegevens{
+    margin-top: 100px;
+    margin-left: 50px;
+    color: White;
+}
+#map{
+    width:600px;
+    height:700px;
+    margin-left: 50px;
+    margin-bottom: 70px;
+    color: white;
+}
